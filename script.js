@@ -5,3 +5,4 @@ for(let i=0; i<5; i++) {
 function kaibigan() {
     console.log("HEllo to you!_!");
 }
+let hammer = document.getElementById("hamburger");
