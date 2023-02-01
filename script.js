@@ -2,6 +2,6 @@ let k=15;
 for(let i=0; i<5; i++) {
     k += 1;
 }
-function amigo() {
+function kaibigan() {
     console.log("HEllo to you!_!");
 }
